@@ -1,4 +1,6 @@
 # AI-Search-Agents
+Mini AI project for Search Agents @ Johns Hopkins Univ
+
 - In this project, search agents are implemented.
 
 - More specifically:
