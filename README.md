@@ -1,5 +1,6 @@
 # AI-Search-Agents
 Mini AI project for Search Agents @ Johns Hopkins Univ
+Instructor: Musad Haque, PhD
 
 - In this project, search agents are implemented.
 
